@@ -47,7 +47,7 @@ Follow these steps to get the application running on your local machine.
 
     ```bash
     git clone https://github.com/Srinidhi945/AI_Research_Q_and_A
-    cd AI_Research
+    cd AI_Research_Q_and_A
     ```
 
 2.  **Create and Activate a Virtual Environment**
